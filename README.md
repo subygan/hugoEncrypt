@@ -1,0 +1,2 @@
+# hugoEncrypt
+Encrypt hugo pages
